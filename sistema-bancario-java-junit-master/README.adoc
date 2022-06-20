@@ -27,7 +27,7 @@ image::diagrama-classes-model.png[]
 O código de tais classes foi gerado a partir do http://staruml.io[StarUML] e está disponível em um link:src[projeto Java
 na pasta src], contendo a mesma documentação disponível no projeto UML.
 A documentação JavaDoc incluída no código fonte das classes informa como os métodos devem funcionar,
-quais as regras de validação de atributos e outros detalhes;
+quais as regras de validação de atributos e outros detalhes.
 A partir destas definições apresentadas, pode-se então escrever os testes e o código dos métodos gerais, getters e setters das classes. Observe que estes dois últimos tipos de métodos não são mostrados no diagrama por simplificação.
 
 == Apresentações
@@ -35,7 +35,7 @@ A partir destas definições apresentadas, pode-se então escrever os testes e o
 Alguns conceitos relacionados a testes de software são mostrados nas apresentações abaixo:
 
 - https://docs.google.com/presentation/d/e/2PACX-1vQiRM6mLQ496ptdlXhmILYO__PzXjBHyrzGOPgfCVwWy-0a7h3v-S9bbdHm7V6HO8Y4sQLkvexQvWy3/pub?start=true&loop=false&delayms=60000[Code Coverage]: fundamentos de cobertura de código e como utilizar em projetos Java com http://junit.org[JUnit] e http://jacoco.org/jacoco[JaCoCo]. https://youtu.be/amDFHIg-D_U[Vídeo-aula disponível aqui].
-- https://docs.google.com/presentation/d/e/2PACX-1vQwATi-XTUnQcXi1S2Q6p_O37gQ68D7z0hDzQBSnrIc1WVPmJNoR3lmddY47KFLDpk9iAQoizaVdFOR/pub?start=true&loop=false&delayms=60000[Continuous Integration e Continuous Deployment (CI/CD)]: fundamentos de Integração Contínua e Implantação Contínua. https://youtu.be/wA1RbmK-QRA[Vídeo-aula disponível aqui].
+- https://docs.google.com/presentation/d/e/2PACX-1vQwATi-XTUnQcXi1S2Q6p_O37gQ68D7z0hDzQBSnrIc1WVPmJNoR3lmddY47KFLDpk9iAQoizaVdFOR/pub?start=true&loop=false&delayms=60000[Continuous Integration e Continuous Deployment (CI/CD)]: fundamentos de Integração Contínua e Implantação Contínua. https://youtu.be/wA1RbmK-QRA[Vídeo-aula disponível aqui];
 
 
 [IMPORTANT]
